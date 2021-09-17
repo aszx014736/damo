@@ -1,0 +1,10 @@
+C:\Users\teng\Desktop\GitHub\數位影像拆解\數位影像拆解\bin\Debug\數位影像拆解.exe.config
+C:\Users\teng\Desktop\GitHub\數位影像拆解\數位影像拆解\bin\Debug\數位影像拆解.exe
+C:\Users\teng\Desktop\GitHub\數位影像拆解\數位影像拆解\bin\Debug\數位影像拆解.pdb
+C:\Users\teng\Desktop\GitHub\數位影像拆解\數位影像拆解\obj\Debug\數位影像拆解.csprojAssemblyReference.cache
+C:\Users\teng\Desktop\GitHub\數位影像拆解\數位影像拆解\obj\Debug\數位影像拆解.Form1.resources
+C:\Users\teng\Desktop\GitHub\數位影像拆解\數位影像拆解\obj\Debug\數位影像拆解.Properties.Resources.resources
+C:\Users\teng\Desktop\GitHub\數位影像拆解\數位影像拆解\obj\Debug\數位影像拆解.csproj.GenerateResource.cache
+C:\Users\teng\Desktop\GitHub\數位影像拆解\數位影像拆解\obj\Debug\數位影像拆解.csproj.CoreCompileInputs.cache
+C:\Users\teng\Desktop\GitHub\數位影像拆解\數位影像拆解\obj\Debug\數位影像拆解.exe
+C:\Users\teng\Desktop\GitHub\數位影像拆解\數位影像拆解\obj\Debug\數位影像拆解.pdb
